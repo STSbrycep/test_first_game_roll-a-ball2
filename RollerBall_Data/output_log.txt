@@ -1,0 +1,52 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80070057)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1404]
+    Renderer: AMD Radeon HD 7400 Series
+    Vendor:   ATI
+    VRAM:     1012 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1 ATOC=0 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bryce\Desktop\RollerBall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bryce\Desktop\RollerBall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryce\Desktop\RollerBall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bryce\Desktop\RollerBall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryce\Desktop\RollerBall_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Bryce\Desktop\RollerBall_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryce\Desktop\RollerBall_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bryce\Desktop\RollerBall_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryce\Desktop\RollerBall_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bryce\Desktop\RollerBall_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Bryce\Desktop\RollerBall_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Bryce\Desktop\RollerBall_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.095 seconds
+Platform assembly: C:\Users\Bryce\Desktop\RollerBall_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Bryce\Desktop\RollerBall_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 3360x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 3.709920 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1684 -> priority: 1 
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: still lost
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 718)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
